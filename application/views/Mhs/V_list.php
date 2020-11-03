@@ -88,7 +88,7 @@
       </div>
       <div class="modal-body">
 
-          <h3>Upload File Excel</h3>
+          <!-- <h3>Upload File Excel</h3>
 
           <a href="<?php echo base_url().'C_Mhs/download' ?>">Download Template File Excel</a>
           <?php echo form_open_multipart('C_Mhs/upload');?>
@@ -105,7 +105,7 @@
           <br>
           <br>
           <h3>Input Manual</h3>
-
+ -->
       <form method="post" action="<?php echo base_url().'C_Mhs/insert_entry'; ?>">
                 
         <div class="form-group">
